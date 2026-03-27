@@ -1,0 +1,12 @@
+.DS_Store
+.idea/
+.vscode/
+*.swp
+bin/
+build/
+__pycache__/
+venv/
+*.txt
+*.csv
+*.json
+*.log
