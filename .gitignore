@@ -6,4 +6,7 @@ bin/
 build/
 __pycache__/
 venv/
+*.csv
+*.json
+*.log
 

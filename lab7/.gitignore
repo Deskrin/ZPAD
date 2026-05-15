@@ -1,0 +1,13 @@
+.DS_Store
+.idea/
+.vscode/
+*.swp
+build/
+*.txt
+*.csv
+*.json
+*.log
+*.prototxt
+*.caffemodel
+!CMakeLists.txt
+!requirements.txt
